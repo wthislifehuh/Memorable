@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC6Zu5-EbDbpvk--wr9K0LrzrCcIFQ7YVM',
+    apiKey: '',
     appId: '1:111165214207:web:9937665f3b16838969abca',
     messagingSenderId: '111165214207',
     projectId: 'mobile-ar-tourism',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDYua4mLF3Y1_MssR9mxt-1GS30F_6z4a0',
+    apiKey: '',
     appId: '1:111165214207:android:00d70103ff613b4869abca',
     messagingSenderId: '111165214207',
     projectId: 'mobile-ar-tourism',
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDW6iBsShC6N-RIn9j74uwbfvwAdWfoR60',
+    apiKey: '',
     appId: '1:111165214207:ios:d4305e466317323869abca',
     messagingSenderId: '111165214207',
     projectId: 'mobile-ar-tourism',
@@ -73,7 +73,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDW6iBsShC6N-RIn9j74uwbfvwAdWfoR60',
+    apiKey: '',
     appId: '1:111165214207:ios:cd9e4b63497824d869abca',
     messagingSenderId: '111165214207',
     projectId: 'mobile-ar-tourism',
